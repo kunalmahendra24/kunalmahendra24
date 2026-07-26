@@ -149,20 +149,6 @@ const kunal = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunalmahendra24/kunalmahendra24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunalmahendra24/kunalmahendra24/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kunalmahendra24/kunalmahendra24/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🧠 What I Can Build
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=79C0FF&center=true&vCenter=true&width=700&lines=REST+APIs+with+Node.js+%26+Express;React+frontends+with+clean+UI;Real-time+apps+with+Socket.io;Auth+systems+(JWT+%2F+Cookies);Python+ML+%26+data-driven+tools;Full+deployments+on+Vercel+%26+Render" alt="skills typing" />
